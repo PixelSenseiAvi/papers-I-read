@@ -8,3 +8,7 @@ Researches I have been following:
 - Moon, G., Yong Chang, J. and Mu Lee, K., 2018. V2v-posenet: Voxel-to-voxel prediction network for accurate 3d hand and human pose estimation from a single depth map. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 5079-5088).
 
 - Ioffe, S. and Szegedy, C., 2015. Batch normalization: Accelerating deep network training by reducing internal covariate shift. arXiv preprint arXiv:1502.03167.
+
+- Oikonomidis, I., Kyriazis, N. and Argyros, A.A., 2011, August. Efficient model-based 3D tracking of hand articulations using Kinect. In BmVC (Vol. 1, No. 2, p. 3).
+
+- Liang, H., Yuan, J. and Thalmann, D., 2014. Parsing the hand in depth images. IEEE Transactions on Multimedia, 16(5), pp.1241-1253.
