@@ -12,3 +12,5 @@ Researches I have been following:
 - Oikonomidis, I., Kyriazis, N. and Argyros, A.A., 2011, August. Efficient model-based 3D tracking of hand articulations using Kinect. In BmVC (Vol. 1, No. 2, p. 3).
 
 - Liang, H., Yuan, J. and Thalmann, D., 2014. Parsing the hand in depth images. IEEE Transactions on Multimedia, 16(5), pp.1241-1253.
+
+- Silvennoinen, A. and Lehtinen, J., 2017. Real-time global illumination by precomputed local reconstruction from sparse radiance probes. ACM Transactions on Graphics (TOG), 36(6), p.230.
